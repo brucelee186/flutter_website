@@ -11,9 +11,9 @@ class _LoadingState extends State<LoadingPage>{
   void initState(){
     super.initState();
     // stop at loading page 3 second
-    Future.delayed(Duration(seconds: 8),(){
+    Future.delayed(Duration(seconds: 3),(){
       print('Flutter App Start...');
-      Navigator.of(context).pushReplacementNamed("company_info");
+      Navigator.of(context).pushReplacementNamed("app");
     });
   }
 
