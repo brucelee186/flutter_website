@@ -26,7 +26,7 @@
 23        android:name="io.flutter.app.FlutterApplication"
 23-->/Users/hfy/AndroidStudioProjects/flutter_website/android/app/src/main/AndroidManifest.xml:9:9-57
 24        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-24-->[androidx.core:core:1.1.0] /Users/hfy/.gradle/caches/transforms-2/files-2.1/6b399c2363bb098ebde1725d903cbda0/core-1.1.0/AndroidManifest.xml:24:18-86
+24-->[androidx.core:core:1.1.0] /Users/hfy/.gradle/caches/transforms-2/files-2.1/40ce18bcfb8b6d84af8e18cfbc870394/core-1.1.0/AndroidManifest.xml:24:18-86
 25        android:debuggable="true"
 26        android:icon="@mipmap/ic_launcher"
 26-->/Users/hfy/AndroidStudioProjects/flutter_website/android/app/src/main/AndroidManifest.xml:11:9-43

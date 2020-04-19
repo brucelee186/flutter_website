@@ -56,6 +56,12 @@
       "languageVersion": "2.2"
     },
     {
+      "name": "flutter_webview_plugin",
+      "rootUri": "file:///Users/hfy/sdk/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_webview_plugin-0.3.11",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
       "name": "http",
       "rootUri": "file:///Users/hfy/sdk/flutter/.pub-cache/hosted/pub.flutter-io.cn/http-0.12.0+4",
       "packageUri": "lib/",
@@ -152,7 +158,7 @@
       "languageVersion": "2.1"
     }
   ],
-  "generated": "2020-04-18T15:29:25.181009Z",
+  "generated": "2020-04-19T14:44:37.498749Z",
   "generator": "pub",
   "generatorVersion": "2.8.0-dev.20.7.flutter-5900a0ac49"
 }
