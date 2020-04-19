@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'home_banner.dart';
 
 class HomePage extends StatefulWidget{
   @override
@@ -9,6 +10,12 @@ class HomePageState extends State<HomePage>{
 
   @override
   Widget build(BuildContext context) {
-    return Text('home');
+    return Scaffold(
+      body: ListView(
+        children: <Widget>[
+          BannerWidget(),
+        ],
+      ),
+    );
   }
 }
