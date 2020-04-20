@@ -67,6 +67,24 @@
 46-->/Users/hfy/AndroidStudioProjects/flutter_website/android/app/src/main/AndroidManifest.xml:27:13-44
 47            android:value="2" />
 47-->/Users/hfy/AndroidStudioProjects/flutter_website/android/app/src/main/AndroidManifest.xml:28:13-30
-48    </application>
-49
-50</manifest>
+48
+49        <provider
+49-->[:flutter_webview_plugin] /Users/hfy/AndroidStudioProjects/flutter_website/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:9:9-18:20
+50            android:name="androidx.core.content.FileProvider"
+50-->[:flutter_webview_plugin] /Users/hfy/AndroidStudioProjects/flutter_website/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-62
+51            android:authorities="com.flutterwebsite.fileprovider"
+51-->[:flutter_webview_plugin] /Users/hfy/AndroidStudioProjects/flutter_website/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-64
+52            android:exported="false"
+52-->[:flutter_webview_plugin] /Users/hfy/AndroidStudioProjects/flutter_website/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-37
+53            android:grantUriPermissions="true" >
+53-->[:flutter_webview_plugin] /Users/hfy/AndroidStudioProjects/flutter_website/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-47
+54            <meta-data
+54-->[:flutter_webview_plugin] /Users/hfy/AndroidStudioProjects/flutter_website/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-17:53
+55                android:name="android.support.FILE_PROVIDER_PATHS"
+55-->[:flutter_webview_plugin] /Users/hfy/AndroidStudioProjects/flutter_website/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:16:17-67
+56                android:resource="@xml/filepaths" />
+56-->[:flutter_webview_plugin] /Users/hfy/AndroidStudioProjects/flutter_website/build/flutter_webview_plugin/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-50
+57        </provider>
+58    </application>
+59
+60</manifest>
