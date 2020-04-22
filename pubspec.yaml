@@ -29,7 +29,8 @@ dependencies:
   flutter_webview_plugin: ^0.3.0
   # add loop widget
   flutter_swiper: 1.1.4
-
+  # add quiver 2020.4.22 23:20
+  quiver: '>=2.0.0 <3.0.0'
 dev_dependencies:
   flutter_test:
     sdk: flutter
