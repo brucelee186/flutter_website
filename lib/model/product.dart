@@ -3,12 +3,14 @@ class ProductItemModal{
   String type;
   String name;
   String img;
+  String point;
 
   ProductItemModal({
     this.description,
     this.img,
     this.name,
-    this.type
+    this.type,
+    this.point,
 });
 
   factory ProductItemModal.fromJson(dynamic json){
@@ -17,6 +19,7 @@ class ProductItemModal{
       type: json['type'],
       name: json['name'],
       img: json['img'],
+      point: json['point'],
     );
   }
 }
