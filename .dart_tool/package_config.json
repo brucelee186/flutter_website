@@ -110,6 +110,12 @@
       "languageVersion": "2.1"
     },
     {
+      "name": "quiver",
+      "rootUri": "file:///Users/hfy/sdk/flutter/.pub-cache/hosted/pub.flutter-io.cn/quiver-2.1.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
       "name": "sky_engine",
       "rootUri": "file:///Users/hfy/sdk/flutter/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
@@ -176,7 +182,7 @@
       "languageVersion": "2.1"
     }
   ],
-  "generated": "2020-04-19T16:44:12.897317Z",
+  "generated": "2020-04-22T15:20:58.193532Z",
   "generator": "pub",
   "generatorVersion": "2.8.0-dev.20.7.flutter-5900a0ac49"
 }
