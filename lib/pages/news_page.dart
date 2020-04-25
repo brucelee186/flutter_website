@@ -3,7 +3,7 @@ import '../model/news.dart';
 import '../services/news.dart';
 import 'news_detail_page.dart';
 
-
+//
 class NewsPage extends StatefulWidget{
   @override
   NewsPageState createState() => NewsPageState();
